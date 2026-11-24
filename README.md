@@ -1,4 +1,4 @@
-# NeoBank
+# VaultLedger
 
 A modern, full-stack core banking application engineered with double-entry accounting, real-time ledger consistency, identity verification, virtual card issuance, and peer-to-peer transfers.
 
@@ -8,7 +8,7 @@ Built on Next.js 16 (App Router), React 19, TypeScript, Prisma, PostgreSQL, Stri
 
 ## Overview
 
-NeoBank is designed to demonstrate production-grade fintech engineering patterns. At its foundation is an immutable double-entry ledger that guarantees that money is never created or destroyed, arithmetic never suffers from floating-point errors, and concurrent transfers cannot double-spend account balances.
+VaultLedger is designed to demonstrate production-grade fintech engineering patterns. At its foundation is an immutable double-entry ledger that guarantees that money is never created or destroyed, arithmetic never suffers from floating-point errors, and concurrent transfers cannot double-spend account balances.
 
 ### Key Capabilities
 
